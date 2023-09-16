@@ -1,2 +1,2 @@
 
-![This is more then enough for inspirations!](NxC-International-test-tenant.png)
+![Developers should refer to HowTo](NxCi/beautify-inspire.png)
